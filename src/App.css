@@ -1,0 +1,7 @@
+.bg-primary, .bg-warning, .bg-danger, .bg-info{border:none; margin-right: 3px;}
+.fa-edit:before,  .fa-plus:before, .fa-trash:before, .fa-eye:before{color: #fff;}
+.btn{margin-right: 3px;}
+button .nav-link {padding: 0px!important;}
+button .nav-link span{color: #fff;
+    margin: 0 5px 0 5px;
+    font-size: 15px;}
